@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Users\\oyair\\Documents\\GitHub\\SmartAlarm\\src\\com\\angrydoughnuts\\android\\alarmclock\\NotificationServiceInterface.aidl
+ * Original file: C:\\Users\\bestb_000\\Documents\\GitHub\\SmartAlarm\\src\\com\\angrydoughnuts\\android\\alarmclock\\NotificationServiceInterface.aidl
  */
 package com.angrydoughnuts.android.alarmclock;
 public interface NotificationServiceInterface extends android.os.IInterface
