@@ -1,6 +1,6 @@
 /*
  * This file is auto-generated.  DO NOT MODIFY.
- * Original file: C:\\Users\\oyair\\workspace\\SmartAlarm\\src\\com\\angrydoughnuts\\android\\alarmclock\\AlarmClockInterface.aidl
+ * Original file: C:\\Users\\oyair\\Documents\\GitHub\\SmartAlarm\\src\\com\\angrydoughnuts\\android\\alarmclock\\AlarmClockInterface.aidl
  */
 package com.angrydoughnuts.android.alarmclock;
 public interface AlarmClockInterface extends android.os.IInterface
