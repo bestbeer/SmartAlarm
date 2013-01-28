@@ -1,4 +1,0 @@
-SmartAlarm
-==========
-
-Smart Alarm
